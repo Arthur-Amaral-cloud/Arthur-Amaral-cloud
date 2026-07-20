@@ -1,9 +1,5 @@
 ## <b>Olá sou Arthur 👋</b>
-<h4><b>Estou cursando 3º semestre de Sistemas da Informação</b></h4>
-<div>
-<img height="200em" src = "https://github-readme-stats.vercel.app/api?username=Arthur-Amaral-cloud&show_icons=true&theme=swift"></img>
-<img height="200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amaral-cloud&hide_progress=truehide_progress=true&theme=swift"></img>
-</div>
+<h4><b>Estou cursando 4º semestre de Sistemas da Informação</b></h4>
 <h4><b>Minha Stack:</b></h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
